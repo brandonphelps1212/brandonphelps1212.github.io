@@ -269,6 +269,7 @@ main {
   object-fit: cover;
   flex-grow: 1;
   border-radius: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 .service_description {
   background-color: var(--clr-service-bg);
